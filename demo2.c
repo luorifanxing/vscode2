@@ -12,10 +12,6 @@ int main(void)
 		{
 			goto end;
 		}
-		if(i >= 6)
-		{
-			goto end;
-		}
 	}	
 end:
 	return 0;
