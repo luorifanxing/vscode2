@@ -8,7 +8,7 @@ int main(void)
 	for(i = 0; i < 20; i++)
 	{
 		printf("%d\n",i);
-		if(i >= 5)
+		if(i >= 3)
 		{
 			goto end;
 		}
